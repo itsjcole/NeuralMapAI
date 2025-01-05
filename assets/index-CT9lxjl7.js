@@ -718,7 +718,7 @@ const ye = j("X", [["path", {
                                     children: "Whitepaper"
                                 })]
                             }), e.jsx("a", {//Changeafter
-                                href: "https://x.com/sb",
+                                href: "https://www.google.com",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: `${s.primary} hover:opacity-80 transition-opacity`,
