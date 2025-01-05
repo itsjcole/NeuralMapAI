@@ -718,7 +718,7 @@ const ye = j("X", [["path", {
                                     children: "Whitepaper"
                                 })]
                             }), e.jsx("a", {//Changeafter
-                                href: "https://x.com/",
+                                href: "https://x.com/neuralmap_sol",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: `${s.primary} hover:opacity-80 transition-opacity`,
@@ -726,7 +726,7 @@ const ye = j("X", [["path", {
                                     className: "w-5 h-5"
                                 })
                             }), , e.jsx("a", {//Changeafte
-                                href: "https://t.me/",
+                                href: "https://t.me/NeuralMapAI",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: `${s.primary} hover:opacity-80 transition-opacity`,
